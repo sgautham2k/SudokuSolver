@@ -8,10 +8,9 @@ Such a program starts with a first possible action at a certain position. This p
 
 If there is no further action available and the problem is still not solved, the applied action at the last position is backtracked (removed) and another, not yet tried action is applied.
 
-## GUI for Sudoku Solver
+# GUI for Sudoku Solver
 
-The Board:
-<img src="https://user-images.githubusercontent.com/70945303/121496774-d3a16780-c9eb-11eb-8610-ac3b18eeddf4.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/70945303/121496774-d3a16780-c9eb-11eb-8610-ac3b18eeddf4.png" width="500" height="500">
 
 As you can see, we have the GUI for the sudoku solver which has a timer running to record the time taken to complete the sudoku puzzle.
 
