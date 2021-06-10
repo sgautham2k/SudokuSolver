@@ -11,8 +11,7 @@ If there is no further action available and the problem is still not solved, the
 ## GUI for Sudoku Solver
 
 The Board:
-
-![image](https://user-images.githubusercontent.com/70945303/121496774-d3a16780-c9eb-11eb-8610-ac3b18eeddf4.png)
+<img src="https://user-images.githubusercontent.com/70945303/121496774-d3a16780-c9eb-11eb-8610-ac3b18eeddf4.png" width="100" height="100">
 
 As you can see, we have the GUI for the sudoku solver which has a timer running to record the time taken to complete the sudoku puzzle.
 
