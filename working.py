@@ -70,9 +70,9 @@ def find_empty(bo):
             if bo[i][j]==0:
                 return (i, j) #row and column
 
-
+print("Sudoku board with empty values:\n")
 print_board(board)
 print("\n")
 solve(board)
-print("\n")
+print("Sudoku board solution:\n")
 print_board(board)
